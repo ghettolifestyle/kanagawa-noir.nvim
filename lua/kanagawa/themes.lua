@@ -198,17 +198,17 @@ return {
     dragon = function(palette)
         return {
             ui = {
-                fg         = palette.dragonWhite,
+                fg         = palette.decentGray,
                 fg_dim     = palette.oldWhite,
                 fg_reverse = palette.waveBlue1,
 
                 bg_dim     = palette.dragonBlack1,
-                bg_gutter  = palette.dragonBlack4,
+                bg_gutter  = palette.decentBlack,
 
                 bg_m3      = palette.dragonBlack0,
                 bg_m2      = palette.dragonBlack1,
                 bg_m1      = palette.dragonBlack2,
-                bg         = palette.dragonBlack3,
+                bg         = palette.decentBlack,
                 bg_p1      = palette.dragonBlack4,
                 bg_p2      = palette.dragonBlack5,
 

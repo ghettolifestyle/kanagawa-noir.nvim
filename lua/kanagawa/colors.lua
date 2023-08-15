@@ -1,5 +1,8 @@
 ---@class PaletteColors
 local palette = {
+    -- gl's finest selection
+    decentGray = '#B6B6B6',
+    decentBlack = '#000000',
 
     -- Bg Shades
     sumiInk0 = "#16161D",
